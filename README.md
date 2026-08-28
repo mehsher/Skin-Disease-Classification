@@ -66,7 +66,6 @@ pip install -r requirements.txt
 ## Repo structure
 
 ```
-notebooks/
   skin_disease_classification.ipynb   # data loading -> training -> evaluation -> demo
 requirements.txt
 ```
