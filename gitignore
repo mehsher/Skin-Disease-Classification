@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Dataset (never commit raw data - link it in README instead)
+data/
+*.zip
+
+# Trained model weights (large binary files don't belong in git)
+*.h5
+*.keras
+*.pb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradio
+flagged/
